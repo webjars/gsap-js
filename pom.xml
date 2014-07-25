@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>gsap-js</artifactId>
-    <version>1.12.1-SNAPSHOT</version>
+    <version>1.13.1-SNAPSHOT</version>
     <name>GreenSock-JS</name>
     <description>WebJar for GreenSock-JS</description>
     <url>http://webjars.org</url>
